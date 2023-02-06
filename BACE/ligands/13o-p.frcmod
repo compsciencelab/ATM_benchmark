@@ -1,0 +1,69 @@
+Remark line goes here
+MASS
+nv 14.010        0.530               same as nh 
+nu 14.010        0.530               same as nh 
+
+BOND
+cz-n   400.10   1.399       same as c2- n, penalty score=  3.2
+cz-nv  488.00   1.339       same as cz-nh, penalty score=  0.0
+cz-nu  488.00   1.339       same as cz-nh, penalty score=  0.0
+hn-nv  404.60   1.012       same as hn-nh, penalty score=  0.0
+c3-nu  326.60   1.464       same as c3-nh, penalty score=  0.0
+hn-nu  404.60   1.012       same as hn-nh, penalty score=  0.0
+
+ANGLE
+c3-n -cz   63.100     120.100   same as c2-n -c3, penalty score=  2.2
+n -cz-nv   73.000     120.140   same as nh-cz-nh, penalty score=  1.8
+n -cz-nu   73.000     120.140   same as nh-cz-nh, penalty score=  1.8
+c -n -cz   64.500     122.150   same as c -n -c2, penalty score=  2.2
+cz-nv-hn   48.800     121.150   same as cz-nh-hn, penalty score=  0.0
+c3-nu-cz   62.900     125.460   same as c3-nh-cz, penalty score=  0.0
+cz-nu-hn   48.800     121.150   same as cz-nh-hn, penalty score=  0.0
+nu-cz-nv   73.000     120.140   same as nh-cz-nh, penalty score=  0.0
+ca-c3-nu   66.500     111.390   same as ca-c3-nh, penalty score=  0.0
+cc-c3-nu   66.500     112.340   same as cc-c3-nh, penalty score=  0.0
+c -c3-nu   66.900     109.350   same as c -c3-nh, penalty score=  0.0
+c3-nu-hn   46.100     115.990   same as c3-nh-hn, penalty score=  0.0
+hn-nv-hn   40.100     115.120   same as hn-nh-hn, penalty score=  0.0
+
+DIHE
+nv-cz-n -c3   4    2.600       180.000           2.000      same as X -c2-n -X , penalty score=462.5
+nu-cz-n -c3   4    2.600       180.000           2.000      same as X -c2-n -X , penalty score=462.5
+n -cz-nv-hn   4    2.700       180.000           2.000      same as X -c2-nh-X , penalty score=462.5
+n -cz-nu-c3   4    2.700       180.000           2.000      same as X -c2-nh-X , penalty score=462.5
+n -cz-nu-hn   4    2.700       180.000           2.000      same as X -c2-nh-X , penalty score=462.5
+ca-c3-nu-cz   6    0.000         0.000           2.000      same as X -c3-nh-X , penalty score=  0.0
+cc-c3-nu-cz   6    0.000         0.000           2.000      same as X -c3-nh-X , penalty score=  0.0
+c -c3-nu-cz   6    0.000         0.000           2.000      same as X -c3-nh-X , penalty score=  0.0
+nv-cz-nu-c3   4    2.700       180.000           2.000      same as X -c2-nh-X , penalty score=462.5
+nv-cz-nu-hn   4    2.700       180.000           2.000      same as X -c2-nh-X , penalty score=462.5
+nu-cz-nv-hn   4    2.700       180.000           2.000      same as X -c2-nh-X , penalty score=462.5
+c3-cc-ss-cc   2    2.200       180.000           2.000      same as X -c2-ss-X , penalty score=232.0
+nd-cc-ss-cc   2    2.200       180.000           2.000      same as X -c2-ss-X , penalty score=232.0
+cd-cc-ss-cc   2    2.200       180.000           2.000      same as X -c2-ss-X , penalty score=232.0
+nv-cz-n -c    4    2.600       180.000           2.000      same as X -c2-n -X , penalty score=462.5
+nu-cz-n -c    4    2.600       180.000           2.000      same as X -c2-n -X , penalty score=462.5
+ca-c3-nu-hn   6    0.000         0.000           2.000      same as X -c3-nh-X , penalty score=  0.0
+cc-c3-nu-hn   6    0.000         0.000           2.000      same as X -c3-nh-X , penalty score=  0.0
+c -c3-nu-hn   6    0.000         0.000           2.000      same as X -c3-nh-X , penalty score=  0.0
+h4-cc-ss-cc   2    2.200       180.000           2.000      same as X -c2-ss-X , penalty score=232.0
+
+IMPROPER
+c -c3-n -cz         1.1          180.0         2.0          Using the default value
+n -nu-cz-nv         1.1          180.0         2.0          Using the default value
+cz-hn-nv-hn         1.1          180.0         2.0          Using the default value
+c3-cz-nu-hn         1.1          180.0         2.0          Using the default value
+ca-ca-ca-ha         1.1          180.0         2.0          Using general improper torsional angle  X- X-ca-ha, penalty score=  6.0)
+ca-cp-ca-ha         1.1          180.0         2.0          Using general improper torsional angle  X- X-ca-ha, penalty score=  6.0)
+ca-ca-cp-cp         1.1          180.0         2.0          Using the default value
+c3-nd-cc-ss         1.1          180.0         2.0          Using the default value
+cc-h4-cd-nd         1.1          180.0         2.0          Same as X -X -ca-ha, penalty score= 67.2 (use general term))
+cd-h4-cc-ss         1.1          180.0         2.0          Same as X -X -ca-ha, penalty score= 67.2 (use general term))
+c3-n -c -o         10.5          180.0         2.0          Using general improper torsional angle  X- X- c- o, penalty score=  6.0)
+
+NONBON
+  nv          1.8240  0.1700             same as nh 
+  nu          1.8240  0.1700             same as nh 
+
+
+
