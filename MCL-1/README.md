@@ -1,0 +1,2 @@
+## MCL-1
+During the calculations of the MCL-1 ligand pairs, we encountered some issues with a some of the ligands obtained from the dataset of [Wang et al]() that crashed the ATM simulations. To overcome this issue, and for the ligand pair that included some of this problematic ligands, we used the ligand structures of the pmx protein-ligand benchmark. Since the coordinates of both the ligand and receptor for this case were different, we also used the receptor file for those specific ligand pairs. The complexes labelled as _pmx_ were run with these input files.
