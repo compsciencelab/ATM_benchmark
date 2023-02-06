@@ -12,11 +12,13 @@ If you want to follow more detailed tutorials please check the [following exampl
 ```
 -ligands: every ligand is parameterized with GAFF2 as seen in the setup-atm.sh script. Raw and parameterized (ligand-p) mol2 files are available.
 -receptor: used receptor.pdb file for the generation of the complexes.
--complexes: required files to perform equilibration and running ATM for every calculated ligand pair
+-complexes: required files to perform equilibration and running ATM for every calculated ligand pair.
 ```
-`ATM_data.csv` : calculated ddG values for all protein-ligand datasets
+`ATM_data.csv` : calculated ddG values for all protein-ligand datasets.
+
 `scripts`: scripts required to prepare your system for ATM calculations. 
 
 ## Citation
 Validation of the Alchemical Transfer Method for the Estimation of Relative Binding Affinities of Molecular Series
+
 Sabanés, Pérez, Maciejski, Gallicchio and de Fabritiis
