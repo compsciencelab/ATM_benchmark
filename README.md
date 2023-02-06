@@ -1,6 +1,6 @@
 # ATM_benchmark
 ## Summary
-Here you can find the input files for 8 protein-ligand system (330 ligand pairs) to use with the Alchemical Transfer Method(ATM).
+Here you can find the input files for 8 protein-ligand systems (330 ligand pairs) to use with the Alchemical Transfer Method(ATM).
 
 ## Installation and Usage
 This files are related to a study performed with ATM. To install the files necessary to perform this protocol please see [ATM's github page](https://github.com/Gallicchio-Lab/AToM-OpenMM).
