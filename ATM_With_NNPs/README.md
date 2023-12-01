@@ -1,6 +1,6 @@
 # ATM wit NNPs
 ## Summary
-Here you can find the input files used in our study of RBFE with NNPs. We used the inputs from the paper of [Wang _et al_](https://pubs.acs.org/doi/10.1021/ja512751q) and [Schindler_et al_]()
+Here you can find the input files used in our study of RBFE with NNPs. We used the inputs from the paper of [Wang _et al_](https://pubs.acs.org/doi/10.1021/ja512751q) and [Schindler_et al_](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00900)
 
 ## Installation and Usage
 To install the specific version required to be able to run ATM with ANI2x please refer to our [fork with the necessary changes](https://github.com/compsciencelab/AToM-OpenMM)
