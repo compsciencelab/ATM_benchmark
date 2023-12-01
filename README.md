@@ -1,24 +1,12 @@
 # ATM_benchmark
 ## Summary
-Here you can find the input files for 8 protein-ligand systems (330 ligand pairs) to use with the Alchemical Transfer Method(ATM). We used the inputs from the paper of [Wang _et al_](https://pubs.acs.org/doi/10.1021/ja512751q).
+Here you can find the both studies we realized for Relative Binding Free Energy (RBFE) calculations with the Alchemical Transfer Method (ATM).
 
-## Installation and Usage
-This files are related to a study performed with ATM. To install the files necessary to perform this protocol please see [ATM's github page](https://github.com/Gallicchio-Lab/AToM-OpenMM).
+In the `ATM_validation` folder you can find the input files for our initial study where we evaluated ATM with the Benchmark dataset from [Wang _et al_](https://pubs.acs.org/doi/10.1021/ja512751q).
 
-If you want to follow more detailed tutorials please check the [following examples](https://github.com/Gallicchio-Lab/AToM-OpenMM/tree/master/examples) from the same repository.
+[Validation of the Alchemical Transfer Method for the Estimation of Relative Binding Affinities of Molecular Series](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.3c00178)
 
-## Folder structure
-### For every system
-```
--ligands: every ligand is parameterized with GAFF2 as seen in the setup-atm.sh script. Raw and parameterized (ligand-p) mol2 files are available.
--receptor: used receptor.pdb file for the generation of the complexes.
--complexes: required files to perform equilibration and running ATM for every calculated ligand pair.
-```
-`ATM_data.csv` : calculated ddG values for all protein-ligand datasets.
+In the `ATM_with_NNPs` folder you can find the necessary data from our latest study. Where we combine the capabilities of ATM with the NNP/MM methodology. 
+[Enhancing Protein-Ligand Binding Affinity Predictions using an NNP/MM approach]
 
-`scripts`: scripts required to prepare your system for ATM calculations. 
-
-## Citation
-Validation of the Alchemical Transfer Method for the Estimation of Relative Binding Affinities of Molecular Series
-
-Sabanés, Pérez, Maciejski, Gallicchio and de Fabritiis
+For more information on ATM please visit [their github page](https://github.com/Gallicchio-Lab/AToM-OpenMM).
