@@ -1,4 +1,4 @@
-# ATM_benchmark
+# ATM Validation
 ## Summary
 Here you can find the input files for 8 protein-ligand systems (330 ligand pairs) to use with the Alchemical Transfer Method(ATM). We used the inputs from the paper of [Wang _et al_](https://pubs.acs.org/doi/10.1021/ja512751q).
 
@@ -19,6 +19,4 @@ If you want to follow more detailed tutorials please check the [following exampl
 `scripts`: scripts required to prepare your system for ATM calculations. 
 
 ## Citation
-Validation of the Alchemical Transfer Method for the Estimation of Relative Binding Affinities of Molecular Series
-
-Sabanés, Pérez, Maciejski, Gallicchio and de Fabritiis
+[Validation of the Alchemical Transfer Method for the Estimation of Relative Binding Affinities of Molecular Series](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.3c00178)
