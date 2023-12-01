@@ -1,0 +1,92 @@
+data_m40
+#
+#
+_chem_comp.id                  m40
+_chem_comp.type                NON-POLYMER
+_chem_comp.pdbx_formal_charge  0
+##
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.partial_charge
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+m40  C1   ca  C   0      -0.2203  24.831  -0.058  -11.493  24.831  -0.058  -11.493  
+m40  C2   ca  C   0        0.075  26.024  -0.233  -10.789  26.024  -0.233  -10.789  
+m40  C3   ca  C   0      -0.4895  25.999  -0.774   -9.510  25.999  -0.774   -9.510  
+m40  C4   ca  C   0        0.059  24.786  -1.087   -8.899  24.786  -1.087   -8.899  
+m40  C5   ca  C   0       -0.226  23.601  -0.933   -9.606  23.601  -0.933   -9.606  
+m40  C6   ca  C   0       0.2401  23.609  -0.440  -10.917  23.609  -0.440  -10.917  
+m40  O1   os  O   0      -0.2402  22.482  -0.289  -11.690  22.482  -0.289  -11.690  
+m40  C7   ca  C   0       0.1001  21.244  -0.578  -11.184  21.244  -0.578  -11.184  
+m40  C8   ca  C   0        -0.16  20.672  -1.824  -11.393  20.672  -1.824  -11.393  
+m40  C9   ca  C   0       0.1529  19.414  -2.115  -10.870  19.414  -2.115  -10.870  
+m40  C10  ca  C   0       -0.158  18.736  -1.138  -10.131  18.736  -1.138  -10.131  
+m40  C11  ca  C   0       0.0504  19.284   0.117   -9.944  19.284   0.117   -9.944  
+m40  Cl1  cl  Cl  0      -0.0554  18.418   1.343   -9.077  18.418   1.343   -9.077  
+m40  C12  ca  C   0       -0.153  20.553   0.397  -10.446  20.553   0.397  -10.446  
+m40  S1   sy  S   0       1.3393  27.509  -1.084   -8.633  27.509  -1.084   -8.633  
+m40  O2   o   O   0      -0.5928  27.222  -2.024   -7.534  27.222  -2.024   -7.534  
+m40  O3   o   O   0      -0.5928  28.529  -1.419   -9.610  28.529  -1.419   -9.610  
+m40  C13  c3  C   0       0.5757  27.936   0.588   -7.911  27.936   0.588   -7.911  
+m40  F1   f   F   0  -0.23863299  27.043   0.930   -6.990  27.043   0.930   -6.990  
+m40  F2   f   F   0  -0.23863299  29.125   0.394   -7.380  29.125   0.394   -7.380  
+m40  C14  c3  C   0       0.4662  24.863   0.589  -12.861  24.863   0.589  -12.861  
+m40  F3   f   F   0      -0.1219  18.848  -3.316  -11.063  18.848  -3.316  -11.063  
+m40  F4   f   F   0  -0.23863299  28.016   1.496   -8.890  28.016   1.496   -8.890  
+m40  F5   f   F   0      -0.2353  24.972   1.898  -12.643  24.972   1.898  -12.643  
+m40  F6   f   F   0      -0.2353  25.892   0.175  -13.601  25.892   0.175  -13.601  
+m40  H1   ha  H   0        0.185  26.974   0.048  -11.237  26.974   0.048  -11.237  
+m40  H2   ha  H   0        0.171  24.762  -1.474   -7.894  24.762  -1.474   -7.894  
+m40  H3   ha  H   0        0.169  22.677  -1.229   -9.134  22.677  -1.229   -9.134  
+m40  H4   ha  H   0        0.177  21.203  -2.590  -11.946  21.203  -2.590  -11.946  
+m40  H5   ha  H   0        0.174  17.791  -1.407   -9.693  17.791  -1.407   -9.693  
+m40  H6   ha  H   0        0.171  20.986   1.355  -10.247  20.986   1.355  -10.247  
+m40  H7   h2  H   0       0.0917  23.965   0.403  -13.452  23.965   0.403  -13.452  
+##
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+m40  C1   C2   DOUB  
+m40  C1   C6   SING  
+m40  C1   C14  SING  
+m40  C2   C3   SING  
+m40  C2   H1   SING  
+m40  C3   C4   DOUB  
+m40  C3   S1   SING  
+m40  C4   C5   SING  
+m40  C4   H2   SING  
+m40  C5   C6   DOUB  
+m40  C5   H3   SING  
+m40  C6   O1   SING  
+m40  O1   C7   SING  
+m40  C7   C8   DOUB  
+m40  C7   C12  SING  
+m40  C8   C9   SING  
+m40  C8   H4   SING  
+m40  C9   C10  DOUB  
+m40  C9   F3   SING  
+m40  C10  C11  SING  
+m40  C10  H5   SING  
+m40  C11  Cl1  SING  
+m40  C11  C12  DOUB  
+m40  C12  H6   SING  
+m40  S1   O2   DOUB  
+m40  S1   O3   DOUB  
+m40  S1   C13  SING  
+m40  C13  F1   SING  
+m40  C13  F2   SING  
+m40  C13  F4   SING  
+m40  C14  F5   SING  
+m40  C14  F6   SING  
+m40  C14  H7   SING  
+##

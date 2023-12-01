@@ -1,0 +1,95 @@
+data_m32
+#
+#
+_chem_comp.id                  m32
+_chem_comp.type                NON-POLYMER
+_chem_comp.pdbx_formal_charge  0
+##
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.partial_charge
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+m32  C1   c3  C   0   0.1357  27.152   0.253  -11.680  27.152   0.253  -11.680  
+m32  O1   os  O   0  -0.4039  26.513   0.743  -12.841  26.513   0.743  -12.841  
+m32  C2   c   C   0   0.7432  25.176   0.627  -12.760  25.176   0.627  -12.760  
+m32  C3   ca  C   0  -0.2376  24.850  -0.031  -11.477  24.850  -0.031  -11.477  
+m32  C4   ca  C   0   0.0837  26.034  -0.221  -10.797  26.034  -0.221  -10.797  
+m32  C5   ca  C   0  -0.4455  26.024  -0.769   -9.508  26.024  -0.769   -9.508  
+m32  C6   ca  C   0     0.05  24.804  -1.094   -8.913  24.804  -1.094   -8.913  
+m32  C7   ca  C   0   -0.231  23.615  -0.933   -9.614  23.615  -0.933   -9.614  
+m32  C8   ca  C   0   0.2751  23.619  -0.416  -10.920  23.619  -0.416  -10.920  
+m32  O2   os  O   0  -0.2072  22.485  -0.256  -11.686  22.485  -0.256  -11.686  
+m32  C9   ca  C   0   0.1001  21.242  -0.559  -11.173  21.242  -0.559  -11.173  
+m32  C10  ca  C   0   -0.157  20.676  -1.812  -11.395  20.676  -1.812  -11.395  
+m32  C11  ca  C   0   0.1529  19.421  -2.106  -10.871  19.421  -2.106  -10.871  
+m32  F1   f   F   0  -0.1229  18.853  -3.306  -11.091  18.853  -3.306  -11.091  
+m32  C12  ca  C   0    -0.16  18.739  -1.158  -10.119  18.739  -1.158  -10.119  
+m32  C13  ca  C   0   0.0504  19.285   0.106   -9.917  19.285   0.106   -9.917  
+m32  Cl1  cl  Cl  0  -0.0594  18.408   1.313   -9.052  18.408   1.313   -9.052  
+m32  C14  ca  C   0   -0.154  20.543   0.398  -10.439  20.543   0.398  -10.439  
+m32  S1   sy  S   0   1.3113  27.537  -1.062   -8.607  27.537  -1.062   -8.607  
+m32  O3   o   O   0  -0.6163  27.240  -2.006   -7.521  27.240  -2.006   -7.521  
+m32  O4   o   O   0  -0.6163  28.563  -1.405   -9.588  28.563  -1.405   -9.588  
+m32  C15  c3  C   0   0.3047  27.965   0.618   -7.873  27.965   0.618   -7.873  
+m32  F2   f   F   0  -0.2223  27.864   1.544   -8.822  27.864   1.544   -8.822  
+m32  F3   f   F   0  -0.2223  27.126   0.872   -6.870  27.126   0.872   -6.870  
+m32  O5   o   O   0  -0.5295  24.444   1.044  -13.642  24.444   1.044  -13.642  
+m32  H1   h1  H   0   0.1137  27.735   1.061  -11.234  27.735   1.061  -11.234  
+m32  H2   h1  H   0   0.1137  27.849  -0.545  -11.945  27.849  -0.545  -11.945  
+m32  H3   ha  H   0    0.172  24.781  -1.492   -7.907  24.781  -1.492   -7.907  
+m32  H4   ha  H   0    0.168  22.687  -1.224   -9.136  22.687  -1.224   -9.136  
+m32  H5   ha  H   0    0.178  21.208  -2.572  -11.946  21.208  -2.572  -11.946  
+m32  H6   ha  H   0    0.173  17.803  -1.433   -9.685  17.803  -1.433   -9.685  
+m32  H7   ha  H   0     0.17  20.978   1.367  -10.262  20.978   1.367  -10.262  
+m32  H8   h3  H   0   0.0927  28.989   0.550   -7.541  28.989   0.550   -7.541  
+##
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+m32  C1   O1   SING  
+m32  C1   C4   SING  
+m32  C1   H1   SING  
+m32  C1   H2   SING  
+m32  O1   C2   SING  
+m32  C2   C3   SING  
+m32  C2   O5   DOUB  
+m32  C3   C4   DOUB  
+m32  C3   C8   SING  
+m32  C4   C5   SING  
+m32  C5   C6   DOUB  
+m32  C5   S1   SING  
+m32  C6   C7   SING  
+m32  C6   H3   SING  
+m32  C7   C8   DOUB  
+m32  C7   H4   SING  
+m32  C8   O2   SING  
+m32  O2   C9   SING  
+m32  C9   C10  DOUB  
+m32  C9   C14  SING  
+m32  C10  C11  SING  
+m32  C10  H5   SING  
+m32  C11  F1   SING  
+m32  C11  C12  DOUB  
+m32  C12  C13  SING  
+m32  C12  H6   SING  
+m32  C13  Cl1  SING  
+m32  C13  C14  DOUB  
+m32  C14  H7   SING  
+m32  S1   O3   DOUB  
+m32  S1   O4   DOUB  
+m32  S1   C15  SING  
+m32  C15  F2   SING  
+m32  C15  F3   SING  
+m32  C15  H8   SING  
+##

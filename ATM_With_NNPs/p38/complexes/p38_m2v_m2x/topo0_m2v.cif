@@ -1,0 +1,99 @@
+data_m2v
+#
+#
+_chem_comp.id                  m2v
+_chem_comp.type                NON-POLYMER
+_chem_comp.pdbx_formal_charge  0
+##
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.partial_charge
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+m2v  C1   ca  C  0    -0.206  38.263  36.714  17.013  38.263  36.714  17.013  
+m2v  C2   c   C  0    0.7057  34.545  34.977  21.183  34.545  34.977  21.183  
+m2v  C3   ca  C  0    0.1459  37.597  36.189  18.137  37.597  36.189  18.137  
+m2v  C4   ca  C  0    0.9239  34.044  38.976  23.738  34.044  38.976  23.738  
+m2v  C5   c3  C  0    0.2071  33.156  38.929  26.133  33.156  38.929  26.133  
+m2v  C6   ca  C  0   -0.4234  34.803  37.811  21.441  34.803  37.811  21.441  
+m2v  C7   cc  C  0    0.0068  35.254  37.125  20.234  35.254  37.125  20.234  
+m2v  C8   ca  C  0    0.1509  37.623  36.743  15.759  37.623  36.743  15.759  
+m2v  C9   ca  C  0    -0.175  36.327  36.216  15.623  36.327  36.216  15.623  
+m2v  C10  ca  C  0    -0.076  35.672  35.668  16.740  35.672  35.668  16.740  
+m2v  C11  ca  C  0    0.6222  34.307  37.037  22.511  34.307  37.037  22.511  
+m2v  C12  ca  C  0    0.5232  34.852  39.209  21.617  34.852  39.209  21.617  
+m2v  C13  cd  C  0   -0.0531  35.165  35.782  20.125  35.165  35.782  20.125  
+m2v  C14  ca  C  0    0.0311  36.293  35.664  18.003  36.293  35.664  18.003  
+m2v  C15  c3  C  0    0.0703  33.669  34.832  23.462  33.669  34.832  23.462  
+m2v  F1   f   F  0   -0.1309  38.196  36.197  19.328  38.196  36.197  19.328  
+m2v  O1   os  O  0   -0.2232  35.650  35.062  19.054  35.650  35.062  19.054  
+m2v  N1   nb  N  0    -0.764  34.479  39.792  22.777  34.479  39.792  22.777  
+m2v  O2   o   O  0   -0.6215  34.329  33.776  21.024  34.329  33.776  21.024  
+m2v  N2   n   N  0   -0.4223  34.212  35.618  22.341  34.212  35.618  22.341  
+m2v  N3   nb  N  0    -0.807  33.931  37.650  23.656  33.931  37.650  23.656  
+m2v  N4   nu  N  0   -0.8449  33.672  39.565  24.927  33.672  39.565  24.927  
+m2v  H1   ha  H  0     0.166  39.258  37.116  17.117  39.258  37.116  17.117  
+m2v  H2   h1  H  0  0.049033  33.488  37.891  26.154  33.488  37.891  26.154  
+m2v  H3   ha  H  0     0.163  35.703  37.736  19.467  35.703  37.736  19.467  
+m2v  H4   ha  H  0     0.158  35.838  36.225  14.660  35.838  36.225  14.660  
+m2v  H5   ha  H  0     0.186  34.692  35.230  16.623  34.692  35.230  16.623  
+m2v  H6   h4  H  0    0.0341  35.218  39.856  20.836  35.218  39.856  20.836  
+m2v  H7   h1  H  0    0.0637  34.054  35.188  24.418  34.054  35.188  24.418  
+m2v  H8   h1  H  0    0.0637  32.582  34.919  23.483  32.582  34.919  23.483  
+m2v  H9   h1  H  0    0.0637  33.920  33.771  23.423  33.920  33.771  23.423  
+m2v  H10  hn  H  0    0.4518  33.790  40.569  24.971  33.790  40.569  24.971  
+m2v  F2   f   F  0   -0.1339  38.236  37.274  14.702  38.236  37.274  14.702  
+m2v  H11  h1  H  0  0.049033  33.533  39.454  27.011  33.533  39.454  27.011  
+m2v  H12  h1  H  0  0.049033  32.067  38.968  26.128  32.067  38.968  26.128  
+##
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+m2v  C1   C3   SING  
+m2v  C1   C8   DOUB  
+m2v  C1   H1   SING  
+m2v  C2   C13  SING  
+m2v  C2   O2   DOUB  
+m2v  C2   N2   SING  
+m2v  C3   C14  DOUB  
+m2v  C3   F1   SING  
+m2v  C4   N1   SING  
+m2v  C4   N3   DOUB  
+m2v  C4   N4   SING  
+m2v  C5   N4   SING  
+m2v  C5   H2   SING  
+m2v  C5   H11  SING  
+m2v  C5   H12  SING  
+m2v  C6   C7   SING  
+m2v  C6   C11  DOUB  
+m2v  C6   C12  SING  
+m2v  C7   C13  DOUB  
+m2v  C7   H3   SING  
+m2v  C8   C9   SING  
+m2v  C8   F2   SING  
+m2v  C9   C10  DOUB  
+m2v  C9   H4   SING  
+m2v  C10  C14  SING  
+m2v  C10  H5   SING  
+m2v  C11  N2   SING  
+m2v  C11  N3   SING  
+m2v  C12  N1   DOUB  
+m2v  C12  H6   SING  
+m2v  C13  O1   SING  
+m2v  C14  O1   SING  
+m2v  C15  N2   SING  
+m2v  C15  H7   SING  
+m2v  C15  H8   SING  
+m2v  C15  H9   SING  
+m2v  N4   H10  SING  
+##
