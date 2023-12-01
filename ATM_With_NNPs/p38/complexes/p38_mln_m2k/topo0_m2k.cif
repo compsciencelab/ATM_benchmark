@@ -1,0 +1,116 @@
+data_m2k
+#
+#
+_chem_comp.id                  m2k
+_chem_comp.type                NON-POLYMER
+_chem_comp.pdbx_formal_charge  0
+##
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.partial_charge
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+m2k  C1   ca  C  0   -0.206  38.263  36.714  17.013  38.263  36.714  17.013  
+m2k  C2   c   C  0   0.7047  34.545  34.977  21.183  34.545  34.977  21.183  
+m2k  C3   ca  C  0   0.1469  37.597  36.189  18.137  37.597  36.189  18.137  
+m2k  C4   ca  C  0   0.9259  34.044  38.976  23.738  34.044  38.976  23.738  
+m2k  C5   ca  C  0  -0.4224  34.803  37.811  21.441  34.803  37.811  21.441  
+m2k  C6   cc  C  0   0.0078  35.254  37.125  20.234  35.254  37.125  20.234  
+m2k  C7   ca  C  0   0.1519  37.623  36.743  15.759  37.623  36.743  15.759  
+m2k  C8   ca  C  0   -0.174  36.327  36.216  15.623  36.327  36.216  15.623  
+m2k  C9   ca  C  0   -0.076  35.672  35.668  16.740  35.672  35.668  16.740  
+m2k  C10  ca  C  0   0.6192  34.307  37.037  22.511  34.307  37.037  22.511  
+m2k  C11  ca  C  0   0.5242  34.852  39.209  21.617  34.852  39.209  21.617  
+m2k  C12  cd  C  0  -0.0511  35.165  35.782  20.125  35.165  35.782  20.125  
+m2k  C13  ca  C  0   0.0291  36.293  35.664  18.003  36.293  35.664  18.003  
+m2k  H1   hn  H  0   0.3485  33.840  35.079  23.110  33.840  35.079  23.110  
+m2k  F1   f   F  0  -0.1299  38.196  36.197  19.328  38.196  36.197  19.328  
+m2k  O1   os  O  0  -0.2232  35.650  35.062  19.054  35.650  35.062  19.054  
+m2k  N1   nb  N  0   -0.763  34.479  39.792  22.777  34.479  39.792  22.777  
+m2k  O2   o   O  0  -0.6185  34.329  33.776  21.024  34.329  33.776  21.024  
+m2k  N2   ns  N  0  -0.5194  34.212  35.618  22.341  34.212  35.618  22.341  
+m2k  N3   nb  N  0    -0.81  33.931  37.650  23.656  33.931  37.650  23.656  
+m2k  N4   nu  N  0  -0.8259  33.672  39.565  24.927  33.672  39.565  24.927  
+m2k  H2   ha  H  0    0.167  39.258  37.116  17.117  39.258  37.116  17.117  
+m2k  H3   ha  H  0    0.164  35.703  37.736  19.467  35.703  37.736  19.467  
+m2k  H4   ha  H  0    0.159  35.838  36.225  14.660  35.838  36.225  14.660  
+m2k  H5   ha  H  0    0.186  34.692  35.230  16.623  34.692  35.230  16.623  
+m2k  H6   h4  H  0   0.0351  35.218  39.856  20.836  35.218  39.856  20.836  
+m2k  H7   hn  H  0   0.4428  33.790  40.569  24.971  33.790  40.569  24.971  
+m2k  F2   f   F  0  -0.1339  38.236  37.274  14.702  38.236  37.274  14.702  
+m2k  C14  c3  C  0   0.1279  32.386  39.343  28.503  32.386  39.343  28.503  
+m2k  C15  c3  C  0  -0.1319  32.883  39.995  27.202  32.883  39.995  27.202  
+m2k  C16  c3  C  0   0.2205  33.162  38.933  26.127  33.162  38.933  26.127  
+m2k  C17  c3  C  0  -0.1319  34.167  37.886  26.636  34.167  37.886  26.636  
+m2k  C18  c3  C  0   0.1279  33.671  37.235  27.936  33.671  37.235  27.936  
+m2k  O3   os  O  0  -0.4126  33.391  38.297  29.012  33.391  38.297  29.012  
+m2k  H8   h1  H  0   0.0532  31.400  38.853  28.320  31.400  38.853  28.320  
+m2k  H9   h1  H  0   0.0532  32.222  40.126  29.283  32.222  40.126  29.283  
+m2k  H10  hc  H  0   0.0607  33.817  40.571  27.408  33.817  40.571  27.408  
+m2k  H11  hc  H  0   0.0607  32.125  40.726  26.828  32.125  40.726  26.828  
+m2k  H12  h1  H  0   0.0857  32.207  38.426  25.848  32.207  38.426  25.848  
+m2k  H13  hc  H  0   0.0607  34.332  37.104  25.855  34.332  37.104  25.855  
+m2k  H14  hc  H  0   0.0607  35.154  38.377  26.818  35.154  38.377  26.818  
+m2k  H15  h1  H  0   0.0532  32.737  36.659  27.731  32.737  36.659  27.731  
+m2k  H16  h1  H  0   0.0532  34.429  36.504  28.310  34.429  36.504  28.310  
+##
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+m2k  C1   C3   SING  
+m2k  C1   C7   DOUB  
+m2k  C1   H2   SING  
+m2k  C2   C12  SING  
+m2k  C2   O2   DOUB  
+m2k  C2   N2   SING  
+m2k  C3   C13  DOUB  
+m2k  C3   F1   SING  
+m2k  C4   N1   SING  
+m2k  C4   N3   DOUB  
+m2k  C4   N4   SING  
+m2k  C5   C6   SING  
+m2k  C5   C10  DOUB  
+m2k  C5   C11  SING  
+m2k  C6   C12  DOUB  
+m2k  C6   H3   SING  
+m2k  C7   C8   SING  
+m2k  C7   F2   SING  
+m2k  C8   C9   DOUB  
+m2k  C8   H4   SING  
+m2k  C9   C13  SING  
+m2k  C9   H5   SING  
+m2k  C10  N2   SING  
+m2k  C10  N3   SING  
+m2k  C11  N1   DOUB  
+m2k  C11  H6   SING  
+m2k  C12  O1   SING  
+m2k  C13  O1   SING  
+m2k  H1   N2   SING  
+m2k  N4   H7   SING  
+m2k  N4   C16  SING  
+m2k  C14  C15  SING  
+m2k  C14  O3   SING  
+m2k  C14  H8   SING  
+m2k  C14  H9   SING  
+m2k  C15  C16  SING  
+m2k  C15  H10  SING  
+m2k  C15  H11  SING  
+m2k  C16  C17  SING  
+m2k  C16  H12  SING  
+m2k  C17  C18  SING  
+m2k  C17  H13  SING  
+m2k  C17  H14  SING  
+m2k  C18  O3   SING  
+m2k  C18  H15  SING  
+m2k  C18  H16  SING  
+##

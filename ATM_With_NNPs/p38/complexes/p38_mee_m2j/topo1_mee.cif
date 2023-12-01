@@ -1,0 +1,134 @@
+data_mee
+#
+#
+_chem_comp.id                  mee
+_chem_comp.type                NON-POLYMER
+_chem_comp.pdbx_formal_charge  0
+##
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.partial_charge
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+mee  C1   ca  C  0    -0.206  38.263  36.714  17.013  38.263  36.714  17.013  
+mee  C2   c   C  0    0.7047  34.545  34.977  21.183  34.545  34.977  21.183  
+mee  C3   ca  C  0    0.1459  37.597  36.189  18.137  37.597  36.189  18.137  
+mee  C4   ca  C  0    0.9209  34.044  38.976  23.738  34.044  38.976  23.738  
+mee  C5   ca  C  0   -0.4184  34.803  37.811  21.441  34.803  37.811  21.441  
+mee  C6   cc  C  0    0.0048  35.254  37.125  20.234  35.254  37.125  20.234  
+mee  C7   ca  C  0    0.1509  37.623  36.743  15.759  37.623  36.743  15.759  
+mee  C8   ca  C  0    -0.175  36.327  36.216  15.623  36.327  36.216  15.623  
+mee  C9   ca  C  0    -0.075  35.672  35.668  16.740  35.672  35.668  16.740  
+mee  C10  ca  C  0    0.6202  34.307  37.037  22.511  34.307  37.037  22.511  
+mee  C11  ca  C  0    0.5212  34.852  39.209  21.617  34.852  39.209  21.617  
+mee  C12  cd  C  0   -0.0501  35.165  35.782  20.125  35.165  35.782  20.125  
+mee  C13  ca  C  0    0.0301  36.293  35.664  18.003  36.293  35.664  18.003  
+mee  C14  c3  C  0    0.0703  33.669  34.832  23.462  33.669  34.832  23.462  
+mee  F1   f   F  0   -0.1309  38.196  36.197  19.328  38.196  36.197  19.328  
+mee  O1   os  O  0   -0.2232  35.650  35.062  19.054  35.650  35.062  19.054  
+mee  N1   nb  N  0    -0.762  34.479  39.792  22.777  34.479  39.792  22.777  
+mee  O2   o   O  0   -0.6195  34.329  33.776  21.024  34.329  33.776  21.024  
+mee  N2   n   N  0   -0.4223  34.212  35.618  22.341  34.212  35.618  22.341  
+mee  N3   nb  N  0    -0.805  33.931  37.650  23.656  33.931  37.650  23.656  
+mee  N4   nu  N  0   -0.8259  33.672  39.565  24.927  33.672  39.565  24.927  
+mee  H1   ha  H  0     0.166  39.258  37.116  17.117  39.258  37.116  17.117  
+mee  H2   ha  H  0     0.164  35.703  37.736  19.467  35.703  37.736  19.467  
+mee  H3   ha  H  0     0.158  35.838  36.225  14.660  35.838  36.225  14.660  
+mee  H4   ha  H  0     0.186  34.692  35.230  16.623  34.692  35.230  16.623  
+mee  H5   h4  H  0    0.0351  35.218  39.856  20.836  35.218  39.856  20.836  
+mee  H6   h1  H  0  0.064033  34.054  35.188  24.418  34.054  35.188  24.418  
+mee  H7   h1  H  0  0.064033  32.582  34.919  23.483  32.582  34.919  23.483  
+mee  H8   h1  H  0  0.064033  33.920  33.771  23.423  33.920  33.771  23.423  
+mee  H9   hn  H  0    0.4388  33.790  40.569  24.971  33.790  40.569  24.971  
+mee  F2   f   F  0   -0.1339  38.236  37.274  14.702  38.236  37.274  14.702  
+mee  C15  c3  C  0     0.085  32.386  39.343  28.503  32.386  39.343  28.503  
+mee  C16  c3  C  0   -0.1229  32.883  39.995  27.202  32.883  39.995  27.202  
+mee  C17  c3  C  0    0.2175  33.162  38.933  26.127  33.162  38.933  26.127  
+mee  C18  c3  C  0   -0.1229  34.167  37.886  26.636  34.167  37.886  26.636  
+mee  C19  c3  C  0     0.085  33.671  37.235  27.936  33.671  37.235  27.936  
+mee  N5   n   N  0   -0.4658  33.391  38.297  29.012  33.391  38.297  29.012  
+mee  H10  h1  H  0   0.06295  31.400  38.853  28.320  31.400  38.853  28.320  
+mee  H11  h1  H  0   0.06295  32.222  40.126  29.283  32.222  40.126  29.283  
+mee  H12  hc  H  0    0.0592  33.817  40.571  27.408  33.817  40.571  27.408  
+mee  H13  hc  H  0    0.0592  32.125  40.726  26.828  32.125  40.726  26.828  
+mee  H14  h1  H  0    0.0867  32.207  38.426  25.848  32.207  38.426  25.848  
+mee  H15  hc  H  0    0.0592  34.332  37.104  25.855  34.332  37.104  25.855  
+mee  H16  hc  H  0    0.0592  35.154  38.377  26.818  35.154  38.377  26.818  
+mee  H17  h1  H  0   0.06295  32.737  36.659  27.731  32.737  36.659  27.731  
+mee  H18  h1  H  0   0.06295  34.429  36.504  28.310  34.429  36.504  28.310  
+mee  C20  c   C  0    0.6541  34.019  38.219  30.238  34.019  38.219  30.238  
+mee  O3   o   O  0   -0.6011  34.789  37.319  30.475  34.789  37.319  30.475  
+mee  C21  c3  C  0   -0.1701  33.727  39.281  31.289  33.727  39.281  31.289  
+mee  H19  hc  H  0  0.066367  32.994  40.020  30.879  32.994  40.020  30.879  
+mee  H20  hc  H  0  0.066367  33.297  38.796  32.201  33.297  38.796  32.201  
+mee  H21  hc  H  0  0.066367  34.676  39.808  31.560  34.676  39.808  31.560  
+##
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+mee  C1   C3   SING  
+mee  C1   C7   DOUB  
+mee  C1   H1   SING  
+mee  C2   C12  SING  
+mee  C2   O2   DOUB  
+mee  C2   N2   SING  
+mee  C3   C13  DOUB  
+mee  C3   F1   SING  
+mee  C4   N1   SING  
+mee  C4   N3   DOUB  
+mee  C4   N4   SING  
+mee  C5   C6   SING  
+mee  C5   C10  DOUB  
+mee  C5   C11  SING  
+mee  C6   C12  DOUB  
+mee  C6   H2   SING  
+mee  C7   C8   SING  
+mee  C7   F2   SING  
+mee  C8   C9   DOUB  
+mee  C8   H3   SING  
+mee  C9   C13  SING  
+mee  C9   H4   SING  
+mee  C10  N2   SING  
+mee  C10  N3   SING  
+mee  C11  N1   DOUB  
+mee  C11  H5   SING  
+mee  C12  O1   SING  
+mee  C13  O1   SING  
+mee  C14  N2   SING  
+mee  C14  H6   SING  
+mee  C14  H7   SING  
+mee  C14  H8   SING  
+mee  N4   H9   SING  
+mee  N4   C17  SING  
+mee  C15  C16  SING  
+mee  C15  N5   SING  
+mee  C15  H10  SING  
+mee  C15  H11  SING  
+mee  C16  C17  SING  
+mee  C16  H12  SING  
+mee  C16  H13  SING  
+mee  C17  C18  SING  
+mee  C17  H14  SING  
+mee  C18  C19  SING  
+mee  C18  H15  SING  
+mee  C18  H16  SING  
+mee  C19  N5   SING  
+mee  C19  H17  SING  
+mee  C19  H18  SING  
+mee  N5   C20  SING  
+mee  C20  O3   DOUB  
+mee  C20  C21  SING  
+mee  C21  H19  SING  
+mee  C21  H20  SING  
+mee  C21  H21  SING  
+##
