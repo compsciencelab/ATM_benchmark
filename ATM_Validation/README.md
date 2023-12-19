@@ -7,10 +7,10 @@ This files are related to a study performed with ATM. To install the files neces
 
 If you want to follow more detailed tutorials please check the [following examples](https://github.com/Gallicchio-Lab/AToM-OpenMM/tree/master/examples) from the same repository.
 
-````
-Note: ATM has been considerably updated/upgraded since the publication of this work.
-Although the scripts used are probably not usable with currents version of AToM the input files included in this repo along with the updated script and examples should suffice to replicate this work.
-````
+> [!NOTE]
+> ATM has been considerably updated/upgraded since the publication of this work.
+> Although the scripts used are probably not usable with currents version of AToM the input files included in this repo along with the updated script and examples should suffice to replicate this work.
+
 
 ## Folder structure
 ### For every system
