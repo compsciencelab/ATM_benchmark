@@ -1,4 +1,4 @@
-,Protein,Ligand1,Ligand2,ATM_ddG,ATM_error,exprtimental_ddG
+,Protein,Ligand1,Ligand2,ATM_ddG,ATM_error,experimental_ddG
 0,MCL1,50,60,-1.007797,0.503249,0.41
 1,MCL1,56,35,2.277807,0.493936,0.45
 2,MCL1,65,60,1.244822,0.473464,-0.51
